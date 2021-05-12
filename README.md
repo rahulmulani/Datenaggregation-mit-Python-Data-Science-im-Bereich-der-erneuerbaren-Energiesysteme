@@ -1,0 +1,1 @@
+# Datenaggregation-mit-Python-Data-Science-im-Bereich-der-erneuerbaren-Energiesysteme
